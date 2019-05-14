@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         快捷百度
 // @version      1.51
-// @homepage     https://greasyfork.org/zh-CN/scripts/37058
+// @homepage     https://github.com/YangShuQiaang/YouHou/edit/master/code.user.js
+// @updateURL    https://github.com/YangShuQiaang/YouHou/edit/master/code.user.js
 // @match        *://*/*
 // @description  快捷打开百度搜索弹窗页面
 // @grant        unsafeWindow
